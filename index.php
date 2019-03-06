@@ -5,7 +5,7 @@
   $DICE_2=rand($min,$max);
   $DICE_3=rand($min,$max);
   
-  $DICE_TOTAL=$DICE_1 + $DICE_2 + $DICE_3
+  $DICE_TOTAL=$DICE_1 + $DICE_2 + $DICE_3;
   
-  echo "$DICE_1 | $DICE_2 | $DICE_3 | Total = $DICE_TOTAL"
+  echo "$DICE_1 | $DICE_2 | $DICE_3 | Total = $DICE_TOTAL";
 ?>
