@@ -7,5 +7,5 @@
   
   $DICE_TOTAL=$DICE_1 + $DICE_2 + $DICE_3;
   
-  echo "$DICE_1 | $DICE_2 | $DICE_3 | Total = $DICE_TOTAL";
+  print("$DICE_1 | $DICE_2 | $DICE_3 | Total = $DICE_TOTAL");
 ?>
